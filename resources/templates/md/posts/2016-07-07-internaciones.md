@@ -12,5 +12,10 @@ En esta oportunidad el grupo de usuarios Java de Guatemala, fue invitado a parti
 
 Durante las charlas los alumnos de la universidad pudieron plantear todas sus dudas acerca de **Java como plataforma de desarrollo** y las perspectivas profesionales en el ámbito de TI. 
 
-Agradecemos a la Universidad por la invitación y esperamos seguir colaborando en otras oportunidades.
+Agradecemos a la Universidad y al programa de Ingenieria en Sistemas por la invitación y esperamos seguir colaborando en otras oportunidades.
 
+<div class="fotorama">
+<img src="../../img/posts/tour-uni/1.jpg">
+<img src="../../img/posts/tour-uni/2.jpg">
+<img src="../../img/posts/tour-uni/3.jpg">
+</div>

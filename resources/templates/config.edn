@@ -1,14 +1,14 @@
 {:site-title         "Las Aventuras de Duke"
  :author             "Java User Group"
  :description        "Java Tour 2016, Guatemala"
- :site-url           "http://www.guate-jug.net/tour2016"
+ :site-url           "http://www.guate-jug.net/duke-adventures"
  :post-root          "posts"
  :page-root          "pages"
  :post-root-uri      "posts"
  :page-root-uri      "pages"
  :tag-root-uri       "tags"
  :author-root-uri    "authors"
- :blog-prefix        "/"
+ :blog-prefix        "/duke-adventures"
  :rss-name           "feed.xml"
  :rss-filters        ["cryogen"]
  :recent-posts       10

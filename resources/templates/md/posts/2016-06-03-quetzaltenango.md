@@ -13,3 +13,7 @@ En esta oportunidad GuateJUG partició como parte del **Congreso de Ingeniera en
 * Programación de aplicaciones Android por Jorge Cajas [@Jac_Mota](https://twitter.com/Jac_Mota)
 
 Agradecemos la gente de la Universidad Mariano Galvez por la invitación y esperamos colaborar nuevamente.
+
+<div class="fotorama">
+<img src="../../img/posts/tour-xela/1.jpg">
+</div>

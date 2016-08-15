@@ -3,7 +3,7 @@
  :tags  ["guatejug","occidente"]
  :toc true}
 
-Luego de nuestro primer viaje como Java User Group en el año 2015, **GuateJUG inicio su jornada de viajes por Guatemala** y la primera parada fue San Pedro Sacatepequez, San Marcos. Con el apoyo de la Universidad Mariano Galvez.
+Luego de nuestro primer viaje como Java User Group en el año 2015, **GuateJUG inició su jornada de viajes por Guatemala** y la primera parada fue San Pedro Sacatepequez, San Marcos. Con el apoyo de la Universidad Mariano Galvez.
 
 San Pedro Sacatepéquez es un municipio del departamento de San Marcos, en la República de Guatemala. La economía del municipio se basa en actividades **agrícolas, pecuarias, industriales** — principalmente la fabricación de instrumentos musicales, joyería, productos de cuero y panadería— y artesanales
 

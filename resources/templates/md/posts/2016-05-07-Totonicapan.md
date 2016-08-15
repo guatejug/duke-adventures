@@ -14,7 +14,7 @@ En esta oportunidad GuateJUG partició con una acividad exclusiva del **Java Day
 
 Casualmente el tour coincidio con una feria de comercio internacional de la región por lo que además de hablar de Java, pudimos ver la vida nocturna del lugar asi como las **festividades tradicionales de Guatemala**.
 
-Agradecemos a nuestro contacto **Benjamin** por facilitar nuestra visita y a nuestros anfitriones por un recibimiento inigualable.
+Agradecemos a nuestro contacto **Benjamin Chamorro** por facilitar nuestra visita y a nuestros anfitriones por un recibimiento inigualable.
 
 <div class="fotorama">
 <img src="../../img/posts/tour-toto/1.jpg">
