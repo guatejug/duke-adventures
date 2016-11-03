@@ -5,7 +5,7 @@
 
 <img src="../../img/posts/dukes-choice/duke0.png" alt="dca-logo">
 
-Los **Duke's Choice Awards son premios que estan dedicados a la comunidad**, celebran a las empresas, comunidades y entidades sin fines de lucro que estan innovando en el mundo Java y hacen posible que Java sea el lenguaje de programación #1 del mundo.
+Los **Duke's Choice Awards son premios que estan dedicados a la comunidad**, celebran a las empresas, comunidades y entidades sin fines de lucro que estan innovando en el mundo Java y hacen posible que Java sea el [lenguaje de programación #1 del mundo](http://www.tiobe.com/tiobe-index/).
 
 Cuando iniciamos las aventuras de Duke nunca imaginamos la real contribución que estábamos proponiendo a la comunidad de desarrolladores de Guatemala, sin embargo el día 20 de septiembre el proyecto "Las Aventuras de Duke" fue **premiado durante [Java One 2016 como uno de los 10 ganadores mundiales](https://www.oracle.com/javaone/dukes-choice-award.html)**.
 
