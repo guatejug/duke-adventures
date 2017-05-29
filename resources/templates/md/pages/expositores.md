@@ -9,15 +9,9 @@
 
 Recientemente fue elegido como JUG Leader del grupo de usuarios Java de Guatemala. Cuenta con una Ingeniería en Ciencias y Sistemas por parte de la Universidad de San Carlos de Guatemala, y una maestría en Ciencias de la Computación por parte de la Universidad Federal de Santa Maria (Brasil) como becario de la Organización de Estados Americanos.
 
-Desde hace 2 años es socio fundador de Nabenik S.A., una firma de consultoría de Software dedicada al desarrollo de aplicaciones enterprise y seguridad de sistemas de información, actuando como CTO. De forma paralela, es actual catedrático de Ingeniería en Sistemas en la Universidad Rafael Landivar de Guatemala, en los cursos de Modelación y Simulación de Sistemas e Inteligencia Artificial.
+Desde hace 3 años es socio fundador de Nabenik S.A., una firma de consultoría de Software dedicada al desarrollo de aplicaciones enterprise y seguridad de sistemas de información, actuando como CTO. De forma paralela, es actual catedrático de Ingeniería en Sistemas en la Universidad Rafael Landivar de Guatemala, en los cursos de Modelación y Simulación de Sistemas e Inteligencia Artificial.
 
-##Mercedes Wyss - JDuchess Leader
-
-<img src="../../img/speakers/foto2.png" width="125px">
-
-Actualmente es la fundadora del capitulo [JDuchess](http://jduchess.org/) de Guatemala, Posee tres años de estudios en Ingeniería en Informática y Sistemas en la Universidad Rafael Landivar de la Ciudad de Guatemala. Cuenta con 5 años de experiencia en el desarrollo de aplicaciones móviles Android, desarrollo de Front-End y Back-End sobre el framework Play 1.x basado en Java, también cuenta con experiencia en el desarrollo de WS Restful y consumo de WS SOAP. Así mismo ha desarrollado aplicaciones para iOS y BlackBerry.
-
-Actualmente es CTO en Produactivity, trabaja en crear PowerWTechnology su propia marca personal, dando consultorías y capacitaciones en el desarrollo de aplicaciones Android, también se dedica al desarrollo de aplicaciones móviles y web. Ha trabajado aplicaciones financieras. Dentro de sus clientes se encuentran Mcdonals Guatemala, Black&Decker y Regminton Centro América.
+Ha sido speaker en eventos como JavaOne, DevNexus y Oracle Developer Tour.
 
 ##Maria Castillo - (ex)JUG Leader
 
@@ -48,3 +42,19 @@ Estudiantes de 4to año de ingeniería en Sistemas de la Universidad de San Carl
 Cuenta con dos años de desarrollo de Banca Virtual en ambiente Java / JSP, y tres años en desarrollo móvil Android.
 
 Fue conferencista en el Java Day 2012 y 2013 con el tema “JavaFX”, y para el Java Day 2015 con el tema “Anotaciones Java”. Es colaborador del Congreso de Estudiantes de Ciencias y Sistemas (Coecys) 2016.
+
+##Angel Chanquin - GuateJUG Advocate
+
+<img src="../../img/speakers/foto6.png" width="125px">
+
+Actualmente se desempeña como Senior Java Developer en XumaK Guatemala. Recientemente adquirió el título de "Adobe Certified Expert - AEM Developer". Cuenta con 4 años de experiencia en desarrollo web en Java usando tecnologías como JEE y Spring, tres años de experiencia como freelance de Android y un año de experiencia en Adobe Marketing Cloud con Adobe Experience Manager. Tres años de Ingeniería en Ciencias y Sistemas y cuatro años de Licenciatura en Física Aplicada en la Universidad de San Carlos de Guatemala.
+
+#Participantes anteriores
+
+##Mercedes Wyss - JDuchess Leader
+
+<img src="../../img/speakers/foto2.png" width="125px">
+
+Actualmente es la fundadora del capitulo [JDuchess](http://jduchess.org/) de Guatemala, Posee tres años de estudios en Ingeniería en Informática y Sistemas en la Universidad Rafael Landivar de la Ciudad de Guatemala. Cuenta con 5 años de experiencia en el desarrollo de aplicaciones móviles Android, desarrollo de Front-End y Back-End sobre el framework Play 1.x basado en Java, también cuenta con experiencia en el desarrollo de WS Restful y consumo de WS SOAP. Así mismo ha desarrollado aplicaciones para iOS y BlackBerry.
+
+Actualmente es CTO en Produactivity, trabaja en crear PowerWTechnology su propia marca personal, dando consultorías y capacitaciones en el desarrollo de aplicaciones Android, también se dedica al desarrollo de aplicaciones móviles y web. Ha trabajado aplicaciones financieras. Dentro de sus clientes se encuentran Mcdonals Guatemala, Black&Decker y Regminton Centro América.
