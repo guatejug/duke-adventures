@@ -1,4 +1,4 @@
-#The Duke's Adventures
+# The Duke's Adventures
 
 For GuateJUG volunteers the tour has been an opportunity to rediscover the country, while speaking of Java, IT and life as a IT professional, one life opportunity that has reached our reach thanks to Java.
 
